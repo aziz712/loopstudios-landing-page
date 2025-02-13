@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+  
+    --font-alata: "Alata", serif;
+    --font-Josefin: "Josefin Sans", serif;
+
+
+    --color-White: hsl(0, 0%, 100%);
+    --color-Black: hsl(0, 0%, 0%);
+    --color-Dark-Gray: hsl(0, 0%, 55%);
+    --color-Very-Dark-Gray: hsl(0, 0%, 41%);
+
+    --background-image-desktop: url(assets/desktop/image-hero.jpg);
+    --background-image-mobile: url(assets/mobile/image-hero.jpg) ;
+
+    /* image interactive */
+    --background-image-interactive-desktop: url(assets/desktop/image-interactive.jpg);
+    --background-image-interactive-mobile: url(assets/mobile/image-interactive.jpg);
+
+    
+     
+}
