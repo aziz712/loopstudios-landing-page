@@ -19,7 +19,7 @@ function GallaryProject() {
 
             <h3
               className={`text-4xl font-josefin text-white uppercase ${name === 'the Grid' ? 'w-3/12' : 'w-7/12 lg:w-6/12'
-                } lg:absolute absolute top-30 left-10 duration-200 cursor-pointer group-focus:text-black`}
+                } lg:absolute absolute top-19 left-10 duration-200 cursor-pointer group-focus:text-black`}
             >
               {name}
             </h3>

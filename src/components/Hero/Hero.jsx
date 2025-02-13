@@ -37,7 +37,7 @@ const Hero = ({ toggleElements }) => {
           />
         </div>
        
-       <div className='text-white text-6xl p-6 mt-24 w-full max-w-[425px] uppercase font-josefin border-3 lg:text-7xl lg:border-2 
+       <div className='text-white text-6xl max-w-sm p-5 mt-24 w-full  uppercase font-josefin border-3 lg:text-7xl lg:border-2 
               lg:max-w-xl'>
 
         <h1 className="">
