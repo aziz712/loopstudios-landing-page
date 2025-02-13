@@ -1,7 +1,10 @@
 # Frontend Mentor - Loopstudios landing page
 
 ![Design preview for the Loopstudios landing page coding challenge](./public/design/desktop-preview.jpg)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 744105de0443666521e3f96f04c29a0b1099218e
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
